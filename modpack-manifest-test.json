@@ -1,15 +1,21 @@
 {
   "schemaVersion": 2,
-  "version": "1.0.3-test.5",
+  "version": "1.0.3-test.6",
+  "notes": "Prueba v6: valida que el launcher detecte automaticamente una actualizacion del modpack en segundo plano sin pulsar Jugar ni Instalar modpack.",
   "fullPackage": {
     "downloadUrl": "https://www.dropbox.com/scl/fi/111xz67n0ewsoaxj7b0f6/AREA-CERO-v1.0.2.zip?rlkey=rf4w8dycoefcc4ybak82y3qz4&st=7a5n8gvo&dl=1"
   },
   "fileBaseUrl": "https://raw.githubusercontent.com/NotZaynix/AreaCeroUpdate/incremental-test/test-client/",
   "files": [
     {
-      "path": "config/areacero-update-test/marker.txt",
-      "sha256": "d7bfea18e42d01d62cdab2684280fad408e9ee6b6475272818150d8f7ef3d8a0",
-      "size": 47
+      "path": "config/areacero-update-test/added-v3.txt",
+      "sha256": "cc3fb2845b27565921a6ef5a24086e039df9147cc08ea309fbe18553355feaf0",
+      "size": 32
+    },
+    {
+      "path": "config/areacero-update-test/auto-detection-v6.txt",
+      "sha256": "a510ace905a7a2b40a281474a06ded7fcd722dd533e0e512454e5dd4a025f49d",
+      "size": 50
     },
     {
       "path": "config/areacero-update-test/keep.txt",
@@ -17,9 +23,9 @@
       "size": 36
     },
     {
-      "path": "config/areacero-update-test/added-v3.txt",
-      "sha256": "cc3fb2845b27565921a6ef5a24086e039df9147cc08ea309fbe18553355feaf0",
-      "size": 32
+      "path": "config/areacero-update-test/marker.txt",
+      "sha256": "d7bfea18e42d01d62cdab2684280fad408e9ee6b6475272818150d8f7ef3d8a0",
+      "size": 47
     },
     {
       "path": "mods/catchindicator-fabric-2.1.1.jar",
