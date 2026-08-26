@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "version": "1.0.3-test.4",
+  "version": "1.0.3-test.5",
   "fullPackage": {
     "downloadUrl": "https://www.dropbox.com/scl/fi/111xz67n0ewsoaxj7b0f6/AREA-CERO-v1.0.2.zip?rlkey=rf4w8dycoefcc4ybak82y3qz4&st=7a5n8gvo&dl=1"
   },
@@ -22,9 +22,9 @@
       "size": 32
     },
     {
-      "path": "mods/catchindicator-fabric-1.7.0.jar",
-      "sha256": "bcebcfa5692f93de8d8aff33973510517a7434d48656c5ad167d33df841bc122",
-      "size": 318477
+      "path": "mods/catchindicator-fabric-2.1.1.jar",
+      "sha256": "35c3bda100a121e24eed90dbe72fb441ca9e32baa06d62027a83a00b7a92a84d",
+      "size": 339453
     }
   ],
   "remove": []
