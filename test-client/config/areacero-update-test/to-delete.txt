@@ -1,0 +1,1 @@
+This file exists only in test v2 and must disappear in v3.

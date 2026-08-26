@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "version": "1.0.3-test.1",
-  "notes": "Prueba aislada del actualizador incremental de AreaCero. No es una version publica.",
+  "version": "1.0.3-test.2",
+  "notes": "Prueba incremental v2: actualiza marker.txt y agrega dos archivos de prueba.",
   "fullPackage": {
     "downloadUrl": "https://www.dropbox.com/scl/fi/111xz67n0ewsoaxj7b0f6/AREA-CERO-v1.0.2.zip?rlkey=rf4w8dycoefcc4ybak82y3qz4&st=7a5n8gvo&dl=1"
   },
@@ -9,8 +9,18 @@
   "files": [
     {
       "path": "config/areacero-update-test/marker.txt",
-      "sha256": "b97502c9784ba1c6ec8ae243724e4e78c8851f06f137ed82bb750cd25e063ad8",
-      "size": 42
+      "sha256": "5c8848d8d85c12ac614bbb34528aa101848f135a1c07c53a869d72a647c39477",
+      "size": 41
+    },
+    {
+      "path": "config/areacero-update-test/to-delete.txt",
+      "sha256": "d15a607061a502e96bc84b4db4df9783b5cc5fb45b35d6a9d77eb9f9ac9638d9",
+      "size": 59
+    },
+    {
+      "path": "config/areacero-update-test/keep.txt",
+      "sha256": "67d3a53eb27eb912416410a329849060f0647881f73b773fc9fb9e7acc32830f",
+      "size": 36
     }
   ],
   "remove": []
