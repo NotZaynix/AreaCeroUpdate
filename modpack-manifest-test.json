@@ -1,7 +1,6 @@
 {
   "schemaVersion": 2,
   "version": "1.0.3-test.4",
-  "notes": "Prueba de mod v4: adopta Catch Indicator 1.7.0 como archivo administrado. Si ya existe con el hash correcto no se vuelve a descargar.",
   "fullPackage": {
     "downloadUrl": "https://www.dropbox.com/scl/fi/111xz67n0ewsoaxj7b0f6/AREA-CERO-v1.0.2.zip?rlkey=rf4w8dycoefcc4ybak82y3qz4&st=7a5n8gvo&dl=1"
   },
