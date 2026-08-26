@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "version": "1.0.3-test.3",
-  "notes": "Prueba incremental v3: modifica archivos, agrega uno nuevo y elimina automaticamente to-delete.txt al salir del estado deseado.",
+  "version": "1.0.3-test.4",
+  "notes": "Prueba de mod v4: adopta Catch Indicator 1.7.0 como archivo administrado. Si ya existe con el hash correcto no se vuelve a descargar.",
   "fullPackage": {
     "downloadUrl": "https://www.dropbox.com/scl/fi/111xz67n0ewsoaxj7b0f6/AREA-CERO-v1.0.2.zip?rlkey=rf4w8dycoefcc4ybak82y3qz4&st=7a5n8gvo&dl=1"
   },
@@ -21,6 +21,11 @@
       "path": "config/areacero-update-test/added-v3.txt",
       "sha256": "cc3fb2845b27565921a6ef5a24086e039df9147cc08ea309fbe18553355feaf0",
       "size": 32
+    },
+    {
+      "path": "mods/catchindicator-fabric-1.7.0.jar",
+      "sha256": "bcebcfa5692f93de8d8aff33973510517a7434d48656c5ad167d33df841bc122",
+      "size": 318477
     }
   ],
   "remove": []
