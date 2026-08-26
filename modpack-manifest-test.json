@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "version": "1.0.3-test.2",
-  "notes": "Prueba incremental v2: actualiza marker.txt y agrega dos archivos de prueba.",
+  "version": "1.0.3-test.3",
+  "notes": "Prueba incremental v3: modifica archivos, agrega uno nuevo y elimina automaticamente to-delete.txt al salir del estado deseado.",
   "fullPackage": {
     "downloadUrl": "https://www.dropbox.com/scl/fi/111xz67n0ewsoaxj7b0f6/AREA-CERO-v1.0.2.zip?rlkey=rf4w8dycoefcc4ybak82y3qz4&st=7a5n8gvo&dl=1"
   },
@@ -9,18 +9,18 @@
   "files": [
     {
       "path": "config/areacero-update-test/marker.txt",
-      "sha256": "5c8848d8d85c12ac614bbb34528aa101848f135a1c07c53a869d72a647c39477",
-      "size": 41
-    },
-    {
-      "path": "config/areacero-update-test/to-delete.txt",
-      "sha256": "d15a607061a502e96bc84b4db4df9783b5cc5fb45b35d6a9d77eb9f9ac9638d9",
-      "size": 59
+      "sha256": "d7bfea18e42d01d62cdab2684280fad408e9ee6b6475272818150d8f7ef3d8a0",
+      "size": 47
     },
     {
       "path": "config/areacero-update-test/keep.txt",
-      "sha256": "67d3a53eb27eb912416410a329849060f0647881f73b773fc9fb9e7acc32830f",
+      "sha256": "18cdf208b2d220d884eff13d46f40e21c74ec19adfeaa4021697ca88d13dba62",
       "size": 36
+    },
+    {
+      "path": "config/areacero-update-test/added-v3.txt",
+      "sha256": "cc3fb2845b27565921a6ef5a24086e039df9147cc08ea309fbe18553355feaf0",
+      "size": 32
     }
   ],
   "remove": []
