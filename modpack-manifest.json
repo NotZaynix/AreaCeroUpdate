@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "version": "1.1.1-test.2",
+  "version": "1.1.1-test.3",
   "notes": "Prueba Área CERO 1.1.1: nuevos controles predeterminados y FancyMenu en modo modpack.",
   "fullPackage": {
     "downloadUrl": "https://www.dropbox.com/scl/fi/umui8tpvrbppuv7tkf6ye/MODPACK-MASTER-1.0.3.zip?rlkey=hsjv8ccyii3voe3m6gw5dxgnn&st=p4xe8tem&dl=1"
@@ -9,13 +9,13 @@
   "files": [
     {
       "path": "config/fancymenu/options.txt",
-      "sha256": "1ed8901476f9f89782ed9195412fb586e97a81d0fd0639c7d1993abf7443e21e",
-      "size": 4397
+      "sha256": "2e20ea7aca2d3c5f4d3fbca8f0b3fef2c39eb227af8924a496a8dfbb323dad43",
+      "size": 4398
     },
     {
       "path": "config/defaultoptions/keybindings.txt",
-      "sha256": "c58feede2f5ebef8939cfc82209269008e3f70ca3433d390ccc042e512ba4c48",
-      "size": 5331
+      "sha256": "11413aff2ee6bd29cfaa53d6c592b8b179e06b0c518215f1faa18fca195fc4a3",
+      "size": 5443
     }
   ],
   "remove": []
